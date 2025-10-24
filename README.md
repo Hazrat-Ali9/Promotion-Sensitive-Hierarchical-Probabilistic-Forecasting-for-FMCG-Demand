@@ -118,9 +118,9 @@ Researchers in probabilistic time series and causal inference
 
 Practitioners in supply chain optimization and pricing strategy
 
-📜 License
+## License
 
-MIT License — Open for academic and industrial innovation use.
+[MIT License](LICENSE)
 
 🏆 Citation
 
